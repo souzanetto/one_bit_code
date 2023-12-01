@@ -1,0 +1,22 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: lightgray;
+  background-image: url(imagens/8d2cc52d-492f-4463-8219-b97f5632a7b8.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ li{
+  text-decoration: underline;
+  color: blue;
+}
+
+.luas{
+  font-size: 25px;
+}
+#cal{
+  color: rgb(112, 39, 39);
+  background-color: chocolate;
+  width: 54px;
+}

@@ -1,0 +1,32 @@
+div.caixas{
+  background-color: #fff7f7;
+  padding: 3px 40px 3px 40px;
+  max-width: 1000px;
+  margin: auto;
+  font-weight: 600;
+}
+h1{
+  font-family:'Montserrat', sans-serif;
+  font-size: 1.6em;
+}
+
+.data{
+  font-family: 'Roboto', sans-serif;
+  color: #00adad;
+  font-weight: 600;
+  font-size: 13px;
+  padding-top: 20px;
+
+}
+
+.content{
+  font-family:'Open Sans', sans-serif;
+  font-weight:600; 
+  font-size: 0.9em;
+  padding-bottom: 25px;
+
+}
+hr{
+   margin-inline-start: -40px;
+   margin-inline-end: -40px;
+}
